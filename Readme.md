@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This package was used to implement fixes on an older version of Slate before we upgraded, and is no longer used.
+
 <p align="center">
   <a href="#"><img src="./docs/images/banner.png" /></a>
 </p>
